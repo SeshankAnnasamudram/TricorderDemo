@@ -3,7 +3,23 @@
     package="com.example.tricorderdemo"
     android:versionCode="1"
     android:versionName="1.0" >
+<!-- 
+README
+TricorderDemo 
+Date: 09/18/14
 
+Known Bugs:
+	-Tricorder crashes after attempting to resume, after app has been minimized and reopened.
+	-Tricorder continues to run when minimized, sapping power and overall hardware performance.
+
+Extensions:
+	-Some kind of close app button.
+	-New and Improved GUI.
+	-Some actual documentation.
+
+Signed-off-by: dnmorris7 <dnmorris7@gmail.com>-->
+
+	<!-- Random Comments -->
     <uses-sdk
         android:minSdkVersion="1"
         android:targetSdkVersion="18" />
